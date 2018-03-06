@@ -1,2 +1,5 @@
+clone from https://github.com/trauzti/cache, the original author is trauzti.
+Simulations for cache replacement algorithms.
+
 Example usage:
 ./run test.in
